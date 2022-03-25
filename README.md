@@ -1,4 +1,5 @@
-### Hi there 👋
+### Oi, eu sou João Marcos Ribeiro 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-marcos-ribeiro-262495a3/)](https://www.linkedin.com/in/joão-marcos-ribeiro-262495a3/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMarcosRibeiro)](https://github.com/JoaoMarcosRibeiro/github-readme-stats)
 
 <!--
