@@ -22,12 +22,6 @@ Sou bacharel em Sistemas de Informação e moro em Feira de Santana, Bahia. Trab
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-### GitHub Stats
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoMarcosRibeiro&theme=transparent&v=2)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoMarcosRibeiro&theme=transparent)
-![GitHub Streak](https://streak-stats.demolab.com?user=JoaoMarcosRibeiro&theme=transparent&hide_border=true&background=00000000&ring=E94D5F&fire=30A3DC)
-
 
 <!--
 **JoaoMarcosRibeiro/JoaoMarcosRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
