@@ -24,9 +24,9 @@ Sou bacharel em Sistemas de Informação e moro em Feira de Santana, Bahia. Trab
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoMarcosRibeiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoMarcosRibeiro&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=E94D5F&text_color=FFF&icon_color=30A3DC&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcosRibeiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcosRibeiro&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=E94D5F&text_color=FFF&cache_seconds=86400)
 
 
 <!--
