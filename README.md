@@ -24,7 +24,7 @@ Sou bacharel em Sistemas de Informação e moro em Feira de Santana, Bahia. Trab
 
 ### GitHub Stats
 
-[GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoMarcosRibeiro&theme=transparent&v=2)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoMarcosRibeiro&theme=transparent&v=2)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoMarcosRibeiro&theme=transparent)
 ![GitHub Streak](https://streak-stats.demolab.com?user=JoaoMarcosRibeiro&theme=transparent&hide_border=true&background=00000000&ring=E94D5F&fire=30A3DC)
 
