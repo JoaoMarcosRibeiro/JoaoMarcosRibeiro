@@ -10,17 +10,17 @@ Sou bacharel em Sistemas de Informação e moro em Feira de Santana, Bahia. Trab
 
 ### Habilidades
 
-[HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-[CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-[JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC)
-[PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=30A3DC)
-[Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
-[React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=30A3DC)
-[Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=E94D5F)
-[Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=FFF)
-[Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
-[GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=30A3DC)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=30A3DC)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=E94D5F)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ### GitHub Stats
 
